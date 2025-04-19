@@ -1,0 +1,15 @@
+DISCLAIMER
+
+Rescue Stick for Windows 11 is an open-source project created for educational and experimental use only. It is not affiliated with, sponsored by, or approved by Microsoft.
+
+This toolkit is intended to assist IT professionals, students, and technicians in lab environments and controlled recovery scenarios. It is meant to support learning, testing, and troubleshooting. It should not be used for general consumer or production use.
+
+IMPORTANT WARNING
+
+Several of the tools included in this project interact directly with file systems, system configurations, and low-level drive data. Incorrect use may result in data loss, file corruption, or system instability.
+
+Do not run these tools on any real or active system without first creating a complete, verified backup of all important data. Use this project only when you understand the risks and have proper recovery safeguards in place.
+
+USE AT YOUR OWN RISK
+
+This project is provided as-is, with no guarantees or warranties of any kind. You are fully responsible for any damage, data loss, or issues caused by its use.
